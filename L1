@@ -1,0 +1,6 @@
+#!/bin/bash 
+echo "hellow world"
+echo""
+echo"Enter something "
+readuser_input
+echo"You typed" $user_input
